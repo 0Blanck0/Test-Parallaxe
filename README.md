@@ -6,13 +6,13 @@ This is a simple website created for testing the parallax effect. The parallax e
 
 ## Technologies
 
-* JavaScript: Used to implement the parallax effect functionality.
-* CSS: Stylesheets are used for defining the appearance and layout of the website.
-* HTML: Provides the structure and content of the web pages.
+* JavaScript: Used to implement the parallax effect functionality.   
+* CSS: Stylesheets are used for defining the appearance and layout of the website.   
+* HTML: Provides the structure and content of the web pages.   
 
 ## Getting Started
 
-To get started with this project, simply clone the repository to your local machine:
+To get started with this project, simply clone the repository to your local machine:   
 ```git clone https://github.com/your-username/parallax-effect-tester.git```
 
 Then, open the index.html file in your web browser to view the website.
