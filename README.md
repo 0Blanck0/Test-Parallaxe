@@ -24,3 +24,10 @@ The background images should move at a different speed compared to the foregroun
 This is a test so isn't perfect.
 
 ## License
+
+This project is licensed under the [MIT License](https://fr.wikipedia.org/wiki/Licence_MIT).   
+
+# Warning !
+
+The self.png image is completely private and cannot be used or republished!
+No use of this photo is allowed.
