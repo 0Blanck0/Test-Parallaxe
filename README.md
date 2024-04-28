@@ -29,5 +29,5 @@ This project is licensed under the [MIT License](https://fr.wikipedia.org/wiki/L
 
 # Warning !
 
-The self.png image is completely private and cannot be used or republished!
+The self.png image is completely private and cannot be used or republished!   
 No use of this photo is allowed.
